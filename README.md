@@ -1,6 +1,6 @@
 # Covid19 iOS App Tracker
 
-Android Version : [**Here**] (https://github.com/Kyald1412/CoronaVirus-2019-nCoV-Live-Tracking)
+Android Version : [**Here**](https://github.com/Kyald1412/CoronaVirus-2019-nCoV-Live-Tracking)
 
 <img src="https://raw.githubusercontent.com/Kyald1412/Covid19-iOS-App-Tracker/master/Screenshots/01.png" width="200"> <img src="https://raw.githubusercontent.com/Kyald1412/Covid19-iOS-App-Tracker/master/Screenshots/02.png" width="200">
 
